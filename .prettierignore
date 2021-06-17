@@ -1,0 +1,11 @@
+# Build files:
+static/dist/*
+public/wp-content/themes/snap/dist/*
+
+.prettierignore
+.prettierrc
+.stylelintrc
+
+node_modules
+yarn.lock
+package-lock.json
