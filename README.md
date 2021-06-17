@@ -1,6 +1,4 @@
-# io-example
-
-Empty project.
+# Smashing Intersection Observer header example
 
 ## Building and running on localhost
 
@@ -31,4 +29,3 @@ node dist/bundle.js
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
-
